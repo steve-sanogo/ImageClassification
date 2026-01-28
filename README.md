@@ -9,7 +9,7 @@
 
 Ce projet implémente un modèle de **Réseau de Neurones Convolutif (CNN)** pour la classification d'images de singes. Il s'appuie sur l'architecture **VGG16** (Visual Geometry Group) et utilise la technique du **Transfer Learning** pour optimiser les performances sur un jeu de données spécifique.
 
-Le projet a été réalisé dans le cadre du module de Deep Learning, supervisé par M. TONDJI. Il démontre la capacité à pré-traiter des données visuelles, à adapter une architecture pré-entraînée et à évaluer les performances du modèle.
+Le projet a été réalisé dans le cadre du module de Deep Learning, supervisé par [M. TONDJI](https://scholar.google.com/citations?user=5xyOE3QAAAAJ&hl=en). Il démontre la capacité à pré-traiter des données visuelles, à adapter une architecture pré-entraînée et à évaluer les performances du modèle.
 
 **Points clés :**
 * Utilisation de l'architecture **VGG-16**.
